@@ -7,3 +7,4 @@ data:
   config.txt: | 
     image.public.key=771 
     rsa.public.key=42
+    APP_KEY=true
