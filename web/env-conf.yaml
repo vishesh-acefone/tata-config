@@ -8,5 +8,5 @@ data:
     image.public.key=771 
     rsa.public.key=42
     APP_KEY=true
-    APP_URL="https://cloudphone.tatateleservices.com"
+    APP_URL="https://web-tcl.servetel.in"
     
