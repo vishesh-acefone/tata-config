@@ -8,5 +8,5 @@ data:
     image.public.key=771 
     rsa.public.key=42
     APP_KEY=true
-    APP_URL="https://web-tcl.servetel.in"
+    APP_URL="https://web.servetel.in"
     
