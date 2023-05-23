@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: env-conf-argocd
-  namespace: web
+  namespace: web-sandbox
 data:
   config.txt: | 
     image.public.key=771 
