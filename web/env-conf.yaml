@@ -8,5 +8,5 @@ data:
     image.public.key=771 
     rsa.public.key=42
     APP_KEY=true
-    APP_URL="https://web-tatacommunications.com"
+    APP_URL="https://web-sandbox.ttsl.tel"
     
